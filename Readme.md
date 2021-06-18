@@ -1,17 +1,17 @@
 #### Olá, sou o Luis :clap:
 
-###Sou Desenvolvedor !
+### Sou Desenvolvedor !
 
 * Atualmente estou aprendendo NestJs
 * Procuro sempre ajudar outros Dev's
 * Objetivos 2021: Continuar estudando os mais variados Designer Patterns
-* Curiosidade: adoro ver filmes, ler e desenhar 
+* Curiosidades: adoro ver filmes, ler e desenhar 
 
-####Conecte-se comigo:
+#### Conecte-se comigo:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
-####Languages and Tools
+#### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
